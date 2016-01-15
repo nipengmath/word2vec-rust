@@ -1,0 +1,4 @@
+[package]
+name = "word2vec-rust"
+version = "0.1.0"
+authors = ["nipeng <nipengmath@gmail.com>"]
